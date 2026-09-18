@@ -1,0 +1,20 @@
+citHeader("To cite poldis in publications use:")
+
+bibentry(
+  bibtype = "Article",
+  title = "How urgent are priorities? Comparing political priorities in discourse",
+  author = c(
+    person("Henrique", "Sposito"),
+    person("Jael", "Tan"),
+    person("James", "Hollway")
+  ),
+  year = "2026",
+  journal = "European Journal of Political Research",
+  note = "Forthcoming",
+  textVersion = paste(
+    "Sposito, Henrique, Jael Tan, and James Hollway.",
+    "2026 [Forthcoming].",
+    "How urgent are priorities? Comparing political priorities in discourse.",
+    "European Journal of Political Research."
+  )
+)
